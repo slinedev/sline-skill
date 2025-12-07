@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Sline Logo](https://developer.shopline.com/docs/sline/assets/images/logo.png)
+![Sline Logo](https://sline.dev/sline-logo.png)
 
 **Complete SHOPLINE Sline Templating Language Skill for Claude AI**
 
