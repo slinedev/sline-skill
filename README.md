@@ -150,7 +150,7 @@ Validate your Sline templates for syntax errors and best practices:
 
 ```bash
 # Validate a template file
-node scripts/template_validator.js path/to/template.liquid
+node scripts/template_validator.js path/to/template.html
 
 # Or use programmatically
 const SlineTemplateValidator = require('./scripts/template_validator.js');
