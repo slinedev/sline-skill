@@ -394,7 +394,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📖 **Documentation:** [Browse reference materials](references/)
 - ❓ **Issues:** [Create an issue](https://github.com/slinedev/sline-skill/issues)
 - 💬 **Discussions:** [Join our community](https://github.com/slinedev/sline-skill/discussions)
-- 📧 **Email:** sline.skill@example.com
+- 📧 **Email:** hi@sline.dev
 
 ## 🔗 Related Resources
 
